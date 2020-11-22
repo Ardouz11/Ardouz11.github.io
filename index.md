@@ -5,19 +5,11 @@
 ### Machine Learning
 
 [Reinforcement Learning](https://github.com/Ardouz11/Reinforcement_learning)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/machine.jpg?raw=true"/>
 
----
-[Project 2 Title]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Embedded systems
+<img src="images/embedded.jpg?raw=true"/>
 
 - [Client-Serveur](https://github.com/Ardouz11/Client-Serveur)
 
