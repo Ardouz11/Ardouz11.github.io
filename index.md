@@ -19,6 +19,9 @@
 - [Client-Serveur](https://github.com/Ardouz11/Client-Serveur)
 - [Documentation](https://github.com/Ardouz11/Client-Serveur/blob/master/rapport.pdf)
 
+- [Contribution on Smart_irrigation](https://github.com/Ardouz11/Smart_irrigation)
+- [Documentation of Server](https://github.com/Ardouz11/Smart_irrigation/blob/master/Projet/Documentation/SmartIrrigation_SPRINGBOOT_Doc.pdf)
+
 - [GUI_Matlab](https://github.com/Ardouz11/GUI_Matlab)
 - [Documentation](https://github.com/Ardouz11/GUI_Matlab/blob/master/Rapport.pdf)
 
