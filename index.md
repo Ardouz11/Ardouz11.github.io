@@ -1,5 +1,3 @@
-## Portfolio
-
 ---
 
 ### Machine Learning
@@ -11,7 +9,8 @@
 - [Detection of colors ](https://github.com/Ardouz11/detection_color)
 - [Documentation](https://github.com/Ardouz11/detection_color/wiki)
 
-
+---
+---
 
 ### Embedded systems
 <img src="images/embedded.jpeg?raw=true"/>
@@ -25,20 +24,22 @@
 - [GUI_Matlab](https://github.com/Ardouz11/GUI_Matlab)
 - [Documentation](https://github.com/Ardouz11/GUI_Matlab/blob/master/Rapport.pdf)
 
+---
+---
+
 ### Web Dev
 <img src="images/web.jpeg?raw=true"/>
 
 - [Contribution on Multi-site data syncronisation ](https://github.com/oksyassine/YARLOMIA)
 
+---
+---
 
 ### JAVA 
 <img src="images/java.jpeg?raw=true"/>
 
 - [LOST](https://github.com/Ardouz11/JAVA_2D_GAME_LOST)
 - [Documentation](https://github.com/Ardouz11/JAVA_2D_GAME_LOST/Documentation/Lost.pdf)
----
-
-
 
 
 ---
