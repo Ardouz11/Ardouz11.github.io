@@ -5,7 +5,7 @@
 <img src="images/machine.png?raw=true"/>
 
 - [Reinforcement Learning](https://github.com/Ardouz11/Reinforcement_learning)
-- [Documentation](https://github.com/Ardouz11/Reinforcement_learning/wiki)
+- [Documentation](https://github.com/Ardouz11/Reinforcement_learning/blob/master/Reinf)
 
 - [Detection of colors ](https://github.com/Ardouz11/detection_color)
 - [Documentation](https://github.com/Ardouz11/detection_color/wiki)
