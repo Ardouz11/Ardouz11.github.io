@@ -3,9 +3,10 @@
 ---
 
 ### Machine Learning
+<img src="images/machine.png?raw=true"/>
 
 [Reinforcement Learning](https://github.com/Ardouz11/Reinforcement_learning)
-<img src="images/machine.png?raw=true"/>
+
 
 
 ### Embedded systems
