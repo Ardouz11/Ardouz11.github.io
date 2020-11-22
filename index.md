@@ -17,9 +17,9 @@
 - [Client-Serveur](https://github.com/Ardouz11/Client-Serveur)
 
 ### Web Dev
-<img src="images/web.png?raw=true"/>
+<img src="images/web.jpeg?raw=true"/>
 
-- [Contribution on Multi_site data syncronisation ](https://github.com/Ardouz11/Client-Serveur)
+- [Contribution on Multi-site data syncronisation ](https://github.com/oksyassine/YARLOMIA)
 
 ---
 
