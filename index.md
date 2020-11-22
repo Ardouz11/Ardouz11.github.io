@@ -39,7 +39,7 @@
 <img src="images/java.jpeg?raw=true"/>
 
 - [LOST](https://github.com/Ardouz11/JAVA_2D_GAME_LOST)
-- [Documentation](https://github.com/Ardouz11/JAVA_2D_GAME_LOST/Documentation/Lost.pdf)
+- [Documentation](https://github.com/Ardouz11/JAVA_2D_GAME_LOST/blob/master/Documentation/Lost.pdf)
 
 
 ---
