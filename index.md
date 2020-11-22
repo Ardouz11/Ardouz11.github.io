@@ -33,8 +33,9 @@
 
 ### JAVA 
 <img src="images/java.jpeg?raw=true"/>
-- [LOST](https://github.com/Ardouz11/GUI_Matlab)
-- [Documentation](https://github.com/Ardouz11/GUI_Matlab/blob/master/Rapport.pdf)
+
+- [LOST](https://github.com/Ardouz11/JAVA_2D_GAME_LOST)
+- [Documentation](https://github.com/Ardouz11/JAVA_2D_GAME_LOST/Documentation/Lost.pdf)
 ---
 
 
