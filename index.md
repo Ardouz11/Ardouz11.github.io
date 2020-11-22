@@ -5,9 +5,9 @@
 ### Machine Learning
 <img src="images/machine.png?raw=true"/>
 
-[Reinforcement Learning](https://github.com/Ardouz11/Reinforcement_learning)
+-[Reinforcement Learning](https://github.com/Ardouz11/Reinforcement_learning)
 
-[Detection of colors ](https://github.com/Ardouz11/detection_color)
+-[Detection of colors ](https://github.com/Ardouz11/detection_color)
 
 
 
@@ -22,5 +22,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
