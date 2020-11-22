@@ -7,6 +7,8 @@
 
 [Reinforcement Learning](https://github.com/Ardouz11/Reinforcement_learning)
 
+[Detection of colors ](https://github.com/Ardouz11/detection_color)
+
 
 
 ### Embedded systems
