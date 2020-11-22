@@ -17,7 +17,7 @@
 <img src="images/embedded.jpeg?raw=true"/>
 
 - [Client-Serveur](https://github.com/Ardouz11/Client-Serveur)
-- [Documentation](https://github.com/Ardouz11/Client-Serveur/wiki)
+- [Documentation](https://github.com/Ardouz11/Client-Serveur/blob/master/rapport.pdf)
 
 - [GUI_Matlab](https://github.com/Ardouz11/GUI_Matlab)
 - [Documentation](https://github.com/Ardouz11/GUI_Matlab/blob/master/Rapport.pdf)
